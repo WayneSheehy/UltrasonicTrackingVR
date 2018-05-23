@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Ultrasound3", "VR Ultrasound3.csproj", "{DBE82E45-7902-114C-24FF-A8A50E6BFD51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UltraTrackController", "Arduino\UltraTrackController\UltraTrackController\UltraTrackController.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE82E45-7902-114C-24FF-A8A50E6BFD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE82E45-7902-114C-24FF-A8A50E6BFD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE82E45-7902-114C-24FF-A8A50E6BFD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE82E45-7902-114C-24FF-A8A50E6BFD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
